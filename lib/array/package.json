@@ -1,0 +1,24 @@
+{
+  "name": "com.ihongqiqu.js.array",
+  "version": "1.0.1",
+  "description": "JavaScript array util",
+  "main": "ArrayUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingle1267/JavaScriptUtil.git"
+  },
+  "keywords": [
+    "js",
+    "array",
+    "util"
+  ],
+  "author": "jingle1267",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jingle1267/JavaScriptUtil/issues"
+  },
+  "homepage": "https://github.com/jingle1267/JavaScriptUtil#readme"
+}
