@@ -7,7 +7,7 @@ JS常用工具类
 ### 1. Array工具里常用方法
 
 ```javascript
-	/*
+    /*
      * 判断一个元素是否在数组中
      */
     contains (arr, val) 
