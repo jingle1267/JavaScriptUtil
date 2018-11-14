@@ -1,0 +1,19 @@
+{
+  "name": "com.ihongqiqu.js.test.array",
+  "version": "1.0.0",
+  "description": "javascript array util test",
+  "main": "ArrayTest.js",
+  "dependencies": {
+    "com.ihongqiqu.js.array": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "arrayutil"
+  ],
+  "author": "jingle1267",
+  "license": "ISC"
+}

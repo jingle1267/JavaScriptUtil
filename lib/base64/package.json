@@ -1,0 +1,23 @@
+{
+  "name": "com.ihongqiqu.js.base",
+  "version": "1.0.0",
+  "description": "javascript base64",
+  "main": "Base64Util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingle1267/JavaScriptUtil.git"
+  },
+  "keywords": [
+    "javascript",
+    "base64"
+  ],
+  "author": "jingle1267",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingle1267/JavaScriptUtil/issues"
+  },
+  "homepage": "https://github.com/jingle1267/JavaScriptUtil#readme"
+}
