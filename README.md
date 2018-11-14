@@ -6,6 +6,12 @@ JS常用工具类
 
 ### 1. Array工具里常用方法
 
+```
+npm install com.ihongqiqu.js.array
+```
+
+
+
 ```javascript
     /*
      * 判断一个元素是否在数组中
