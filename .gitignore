@@ -19,3 +19,5 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /samples/array/node_modules/
 /samples/base64/node_modules/
+/samples/type/node_modules/
+/samples/date/node_modules/

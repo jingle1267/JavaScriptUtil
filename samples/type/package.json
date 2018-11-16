@@ -1,0 +1,14 @@
+{
+  "name": "com.ihongqiqu.test.js.type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TypeUtilTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "com.ihongqiqu.js.type": "~1.0.2"
+  },
+  "author": "jingle1267",
+  "license": "ISC"
+}
