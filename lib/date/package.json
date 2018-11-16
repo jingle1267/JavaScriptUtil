@@ -1,0 +1,23 @@
+{
+  "name": "com.ihongqiqu.js.date",
+  "version": "1.0.0",
+  "description": "JavaScript date",
+  "main": "DateUtil.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingle1267/JavaScriptUtil.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "date"
+  ],
+  "author": "jingle1267",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingle1267/JavaScriptUtil/issues"
+  },
+  "homepage": "https://github.com/jingle1267/JavaScriptUtil#readme"
+}
